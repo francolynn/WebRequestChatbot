@@ -12,17 +12,17 @@ This program creates a chat bot (Jibble Pircbot) and sends it to a chat server (
 HOW TO USE
 ----------
 -To change the chat servers and channels, go to MyBotMain.java and edit lines 12 and 15  
--To add an API  
+- To add an API  
   -Get key (if an API requires one)  
   -Add block of code similar to the ones for "ISS" and "Weather" in the MyBOt.java file  
-  -Create a class that maps to the JSON data to help parse the JSON object  
-     -Use a JSON editor, such as http://www.jsoneditoronline.org/, to view the nested structure of the JSON Data  
+  - Create a class that maps to the JSON data to help parse the JSON object  
+    -Use a JSON editor, such as http://www.jsoneditoronline.org/, to view the nested structure of the JSON Data  
 
 LIBRARIES/DOCUMENTATION
 -----------------------
--org.jibble.pircbot  
+- org.jibble.pircbot  
   -http://www.jibble.org/pircbot.php  
--Apache Commons httpclient  
+- Apache Commons httpclient  
   -http://hc.apache.org/httpclient-legacy/index.html  
 
 
