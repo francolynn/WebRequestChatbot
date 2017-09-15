@@ -1,5 +1,5 @@
 # WebRequestChatbot
-This Java program deploys a chatbot to an IRC channel, queries API's, parses JSON Data, and prints user-requested information back into the chatroom
+This Java (1.8) program deploys a chatbot to an IRC channel, queries API's, parses JSON Data, and prints user-requested information back into the chatroom
 
 Author: Franco Lynn  
 Date:   08/03/17
