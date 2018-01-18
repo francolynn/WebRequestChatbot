@@ -1,7 +1,5 @@
 //Author: Franco Lynn
 //NetID: FXL161930
-//Course: CS2336.0U2 (Khan)
-//Title: Project 2: Chatbot, API Requests, JSON
 //Date: 08/03/2017
 
 /*Description: This program deploys a chat robot to an IRC channel and makes API requests
