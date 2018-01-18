@@ -1,5 +1,4 @@
 //Author: Franco Lynn
-//NetID: FXL161930
 //Date: 08/03/2017
 
 /*Description: This program deploys a chat robot to an IRC channel and makes API requests
