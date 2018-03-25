@@ -1,11 +1,12 @@
-//Author: Franco Lynn
-//Date: 08/03/2017
+/**
+   WebRequestChatbot
+   
+   Purpose: This program deploys a chat robot to an IRC channel and makes API requests
+   from various web sites to provide information to other users in the channel on command.
 
-/*Description: This program deploys a chat robot to an IRC channel and makes API requests
- * 			   from various web sites to provide information to other users in the channel
- * 			   on command.
- */
-
+    @author Franco Lynn
+    @version 1.00 8/03/2017
+*/
 
 public class MyBotMain {
     
